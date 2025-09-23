@@ -22,12 +22,16 @@ I'm Rui. Welcome to my GitHub profile where I share my projects and insights on 
 
 - **University:**
   - Higher Professional Technical Course in Web and Mobile Development from ESTGV :school:.
-  - Currently in the final year of the Computer Science course at ESTGV.
+  - Graduated in Computer Science course at ESTGV.
   - Participated in the Deloitte BrightStart program from 2020 to 2024 :star:.
 
 ---
 
 ### Professional Experience
+
+- **Findmore Solutions (2025 - 2025):**
+  - Developed an App in React Native
+  - Intregration with Microsoft Services (Dataverse,Auth, Power Apps)
 
 - **Deloitte (2021 - 2024):**
   - Specializing in Outsystems development (Traditional, Reactive, Mobile).

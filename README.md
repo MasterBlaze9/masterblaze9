@@ -47,8 +47,8 @@ I'm Rui. Welcome to my GitHub profile where I share my projects and insights on 
 ---
 
 ### GitHub Stats
-[![MasterBlaze9's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterblaze9&show_icons=true&theme=radical)](https://github.com/masterblaze9/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterblaze9&layout=compact&theme=radical)](https://github.com/masterblaze9/github-readme-stats)
+![GitHub Stats](./assets/overview.svg)
+![Top Langs](./assets/languages.svg)
 
 ---
 

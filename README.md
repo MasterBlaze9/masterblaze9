@@ -2,7 +2,7 @@
 I'm Rui. Welcome to my GitHub profile where I share my projects and insights on software development.
 
 ### Home
-- I'm based in Viseu, Portugal. <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal Flag" width="25" height="20">
+- I'm based in Lisbon, Portugal. <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal Flag" width="25" height="20">
 
 ---
 
